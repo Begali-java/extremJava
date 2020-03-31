@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="40215883-e711-4e9d-a155-47cfad2f3af1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="40215883-e711-4e9d-a155-47cfad2f3af1" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -110,7 +108,7 @@
       <workItem from="1585590317218" duration="342000" />
       <workItem from="1585591161345" duration="2333000" />
       <workItem from="1585641512251" duration="13844000" />
-      <workItem from="1585666144826" duration="2450000" />
+      <workItem from="1585666144826" duration="3100000" />
     </task>
     <task id="LOCAL-00001" summary="fvg€fvg">
       <created>1585667581569</created>
@@ -126,7 +124,21 @@
       <option name="project" value="LOCAL" />
       <updated>1585667721433</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="test">
+      <created>1585668621949</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1585668621949</updated>
+    </task>
+    <task id="LOCAL-00004" summary="test">
+      <created>1585668658785</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1585668658785</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -154,10 +166,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="466" y="222" width="433" height="293" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1585642290308" />
-    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1585668620324">
+    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1585668655479">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1585668620324" />
+    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1585668655479" />
     <state x="463" y="117" key="FileChooserDialogImpl" timestamp="1585666677428">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
